@@ -2,4 +2,4 @@
 
 Small beginner project using css flexbox and SASS.
 
-Minor @media adjustments. 
+@media adjustments. 
